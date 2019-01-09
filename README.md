@@ -28,6 +28,11 @@ You will also need to pass in the following variable:
 docker run --rm -v ~/.aws:/root/.aws -it --entrypoint /bin/sh forgedconcepts/terraform-awscli:latest
 ```
 
+# dockerhub
+You can find the container for this here:
+
+https://hub.docker.com/r/forgedconcepts/terraform-awscli
+
 # More Information
 For more information on environment variables and aws, please refer to the following link:
 
